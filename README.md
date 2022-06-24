@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m @shfa-e
 - 👀 I’m interested in ... AI
 - 🌱 I’m currently learning ... html, css
-- 📫 How to reach me ... twitter: @shfa.e
+- 📫 How to reach me ... twitter: @shfa_e
 <!--- 💞️ I’m looking to collaborate on ... --->
 
 <!---
