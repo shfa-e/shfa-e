@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑‍💻 About me</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shfa-e/shfa-e/output/snake.svg" alt="Snake animation" />
+<h2 align="left">🔍 Find me on:</h2>
 
 ###
 
