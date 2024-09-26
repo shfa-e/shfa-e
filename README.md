@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in AI & Mobile Development<br>📚 I'm currently learning flutter/dart<br>🎲 Fun fact: I love retro gaming</p>
+<p align="left">👀 I’m interested in AI & Mobile Development<br>📚 I'm currently learning swift<br>🎲 Fun fact: I love retro gaming</p>
 
 ###
 
